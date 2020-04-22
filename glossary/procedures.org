@@ -1,5 +1,5 @@
 Procedure (procedimento)
 
-É um conjunto de algoritmos manipuladores de dados, usado comumente para descrever processos. Em LISP, pode ser visto também como um tipo de dado.
+É uma sequência de instruções que implementam algoritmos, usado comumente para descrever processos. Em LISP, pode ser visto também como um tipo de dado.
 
 Fonte: https://www.youtube.com/watch?v=FIUJd_ZFmGo&list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF&index=2&t=1647s
