@@ -1,0 +1,3 @@
+É um conjunto de objetos que possuem estruturas similares, onde um objeto de determinado "data type" pertence à esse conjunto. O "data type" especifica onde o mesmo pode ser usado como argumento.
+
+Fonte: https://www.gnu.org/software/emacs/manual/html_node/elisp/Lisp-Data-Types.html
